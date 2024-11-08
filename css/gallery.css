@@ -1,0 +1,11 @@
+#thumbnails{
+    display: none;
+}
+#thumbnails li>img:hover{
+    cursor: pointer;
+    width: 250;
+    height: 170;
+}
+#thumbnails li{
+    margin: 3px 3px;
+}
